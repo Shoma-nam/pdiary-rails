@@ -68,4 +68,5 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "carrierwave", "~>2.2.3"
+gem "carrierwave", "~>3.0.5"
+gem "mini_magick", "~>4.11.0"
